@@ -24,8 +24,8 @@ expanding my skills in backend development and machine learning to contribute to
 
 <p align="left">
 <a href="https://leetcode.com/u/akash_ii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elango_17" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/elango17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="elango17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/er2567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er2567" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/akash19myd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="elango17" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/akash19myd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er2567" height="30" width="40" /></a>
 
 ###
 
