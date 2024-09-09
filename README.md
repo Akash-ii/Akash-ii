@@ -8,12 +8,12 @@ expanding my skills in backend development and machine learning to contribute to
 
 ###
 
-- 👨🏼‍💻 I’m currently learning React.js<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+- 👨🏼‍💻 I’m currently learning Python,Mysql<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
 
-- 👯 I’m looking to collaborate on *Frontend Projects*
+- 👯 I’m looking to collaborate on *Backend Projects*
 
-- 📫 How to reach me *elango.ravi17@gmail.com*
+- 📫 How to reach me *akash19myd@gmail.com*
 
 
 <h3 align="left">Coding:</h3>
