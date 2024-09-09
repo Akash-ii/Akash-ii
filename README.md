@@ -23,7 +23,7 @@ expanding my skills in backend development and machine learning to contribute to
 ###
 
 <p align="left">
-<a href="https://www.leetcode.com/elango_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elango_17" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/akash_ii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elango_17" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/elango17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="elango17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/er2567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er2567" height="30" width="40" /></a>
 
@@ -55,7 +55,7 @@ expanding my skills in backend development and machine learning to contribute to
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-ii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elango-17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-ii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
